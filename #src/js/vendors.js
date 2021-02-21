@@ -1,0 +1,6 @@
+@@include('files/dynamic_adapt.js', {})
+@@include('../../node_modules/swiper/swiper-bundle.min.js', {})
+@@include('../../node_modules/aos/dist/aos.js', {})
+@@include('libs/inputmask.min.js', {})
+@@include('libs/just-validate.min.js', {})
+@@include('libs/hystmodal.min.js', {})
